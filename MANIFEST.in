@@ -1,1 +1,1 @@
-include labscript_utils/excepthook/error.gif
+recursive-include labscript_utils *.gif
